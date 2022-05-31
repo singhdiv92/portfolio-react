@@ -1,0 +1,33 @@
+ const products = [
+    {
+        id:1,
+        img:"https://mir-s3-cdn-cf.behance.net/project_modules/fs/aff5b475512573.5c4f205ec68e3.jpg",
+        link:"https://google.com"
+    },
+    {
+        id:2,
+        img:"https://mir-s3-cdn-cf.behance.net/project_modules/fs/aff5b475512573.5c4f205ec68e3.jpg",
+        link:"https://google.com"
+    },
+    {
+        id:3,
+        img:"https://mir-s3-cdn-cf.behance.net/project_modules/fs/aff5b475512573.5c4f205ec68e3.jpg",
+        link:"https://google.com"
+    },
+    {
+        id:4,
+        img:"https://mir-s3-cdn-cf.behance.net/project_modules/fs/aff5b475512573.5c4f205ec68e3.jpg",
+        link:"https://google.com"
+    },
+    {
+        id:5,
+        img:"https://mir-s3-cdn-cf.behance.net/project_modules/fs/aff5b475512573.5c4f205ec68e3.jpg",
+        link:"https://google.com"
+    },
+    {
+        id:6,
+        img:"https://mir-s3-cdn-cf.behance.net/project_modules/fs/aff5b475512573.5c4f205ec68e3.jpg",
+        link:"https://google.com"
+    }
+];
+export default products;
